@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <p>Exploring the data world, a begginer but with a passion to learn and improve each day. I believe curiosity is the key that leads us to change. </br> I am dedicated to enhancing my skills in Python and R every day. Additionally, I am exploring the networking and backend development, immersing myself in the intricacies of Java and C++. Here, I will share some projects and exercises that I am developing along my learning journey.
+  <p>Exploring the data world, a begginer but with a passion to learn and improve each day. I believe curiosity is the key that leads us to change. </br> Here, I will share some projects and exercises that I am developing along my learning journey.
 </p> 
 </div>
 
