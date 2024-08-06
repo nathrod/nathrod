@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <p>Exploring the data world, a begginer but with a passion to learn and improve each day. I believe curiosity is the key that leads us to change. </br> Here, I will share some projects and exercises that I am developing along my learning journey.
+  <p> Here, I will share some projects and exercises that I am developing along my learning journey.
 </p> 
 </div>
 
